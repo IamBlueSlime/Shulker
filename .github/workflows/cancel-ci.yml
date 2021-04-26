@@ -12,6 +12,6 @@ jobs:
     if: github.event.pull_request.draft == false
 
     steps:
-      - uses: styfle/cancel-workflow-action@0.7.0
+      - uses: styfle/cancel-workflow-action@0.9.0
         with:
           workflow_id: 5310592 # https://api.github.com/repos/IamBlueSlime/Shulker/actions/workflows
