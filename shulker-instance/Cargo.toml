@@ -18,7 +18,7 @@ path = "src/lib.rs"
 [dependencies]
 shulker-crds = { path = "../shulker-crds" }
 shulker-resource = { path = "../shulker-resource" }
-kube = "0.48.0"
+kube = "0.56.0"
 kube-runtime = "0.48.0"
 k8s-openapi = { version = "0.11.0", default-features = false, features = ["v1_17"] }
 tracing = "0.1.22"

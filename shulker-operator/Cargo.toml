@@ -21,7 +21,7 @@ shulker-common = { path = "../shulker-common" }
 shulker-crds = { path = "../shulker-crds" }
 shulker-instance = { path = "../shulker-instance" }
 shulker-resource = { path = "../shulker-resource" }
-kube = "0.48.0"
+kube = "0.56.0"
 kube-runtime = "0.48.0"
 k8s-openapi = { version = "0.11.0", default-features = false, features = ["v1_17"] }
 tokio = { version = "1.1.1", features = ["full"] }
