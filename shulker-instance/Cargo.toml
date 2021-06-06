@@ -21,7 +21,7 @@ shulker-resource = { path = "../shulker-resource" }
 kube = "0.48.0"
 kube-runtime = "0.48.0"
 k8s-openapi = { version = "0.11.0", default-features = false, features = ["v1_17"] }
-tracing = "0.1.22"
+tracing = "0.1.26"
 tracing-subscriber = "0.2.15"
 tracing-futures = "0.2.4"
 futures = "0.3.12"
