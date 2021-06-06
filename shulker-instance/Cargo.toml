@@ -26,5 +26,5 @@ tracing-subscriber = "0.2.15"
 tracing-futures = "0.2.4"
 futures = "0.3.12"
 serde = { version = "1.0.123", features = ["derive"] }
-serde_json = "1.0.61"
+serde_json = "1.0.64"
 snafu = "0.6.10"
